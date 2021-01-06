@@ -1,0 +1,16 @@
+generated-with: Easy Java/Javascript Simulations, version 6.01, build 201013. Visit http://www.um.es/fem/Ejs
+title: 
+logo-image: 
+author: Author name
+copyright: 
+preferred-width: 800
+preferred-height: 600
+author-image: 
+source: ondas_plot_superposicao.ejss
+main-script: 
+main-simulation: ondas_plot_superposicao_Simulation.xhtml
+available-languages: 
+html-contents: ondas_plot_superposicao_Contents.xhtml
+html-main: ondas_plot_superposicao.xhtml
+page-title: Simulation
+page-index: ondas_plot_superposicao_Simulation.xhtml
